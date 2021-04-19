@@ -1,0 +1,25 @@
+{
+  "name": "lab-01-401",
+  "version": "1.0.0",
+  "description": "Starting off with today's lab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacerillo/Lab-01-401.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacerillo/Lab-01-401/issues"
+  },
+  "homepage": "https://github.com/nacerillo/Lab-01-401#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
